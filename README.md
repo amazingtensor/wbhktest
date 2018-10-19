@@ -36,4 +36,4 @@ Your ruby server terminal will output a message stream like:
 >> Listening on localhost:4567, CTRL+C to stop
 I got some JSON: {"action"=>"opened", "issue"=>{"url"=>"...```
 
-You're ready to move onto better things!
+You're ready to move onto better things like [securing your webooks] (https://developer.github.com/webhooks/securing/)!
