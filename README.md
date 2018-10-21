@@ -1,5 +1,5 @@
-# webhook
-Exploration into Twitter API, using Git's webhook and Ruby.
+# Webhook exploration
+This repositor explores API communication with webhooks and http requests, starting with and introduction using Git's webhook and Ruby.
 
 Configure local server to listen to webhooks. The server can then be process the pushed information for other purposes. For example, setting up a "real" web application by logging JSON output to a database.
 
